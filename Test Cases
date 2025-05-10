@@ -1,1 +1,26 @@
-Test Cases 
+Test Cases
+
+
+-	Test Case Template for Project				
+-	Project Name	Vwo 			
+	- Module Name	login Page			
+-	Created By 	SAI KUMAR			
+-	Created Date	3/04/2025			
+				
+				
+					
+					
+- Test Scenario Desciption	Priority	No. of Test cases	Linked Document	
+
+-VWO Login Page with the Valid and Invalid credentials	P0	15	Test Plan Link or FRD Link
+
+- Dashboard page is loaded for the valid credential and all widgets are working.	P0	25	Test Plan Link or FRD Link
+
+- Create Campaign AB Test flow should work fine.	P1	25	Test Plan Link or FRD Link
+
+- User can creare a free sign up account and login in afterwards	P0	15	Test Plan Link or FRD Link
+
+- Existing user with blocked account	P1	15	Test Plan Link or FRD Link		
+					
+					
+					
