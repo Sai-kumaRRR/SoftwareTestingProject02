@@ -4,11 +4,12 @@
 
 Project #1 -  Testcase and Test Plan for App.vwo.com
 
-1. Test Plan
-2. Testcases
-3. Bug Template
-4. Test Stratergy
-5. Test Closure. 
+1. Requirement 
+2. Test Plan
+3. Testcases
+4. Bug Template
+5. Test Stratergy
+6. Test Closure. 
 
 
 
